@@ -1,0 +1,3 @@
+name: Lluís Genoher Montalban
+email: lgenoherm@edu.tecnocampus.cat
+github: lluisgenoher
